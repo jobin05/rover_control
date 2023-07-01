@@ -1,3 +1,6 @@
 [submodule "lib/lib/sbus"]
 	path = lib/lib/sbus
 	url = https://github.com/adamlm/sbus.git
+[submodule "lib/sbus"]
+	path = lib/sbus
+	url = https://github.com/adamlm/sbus.git
