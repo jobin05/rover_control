@@ -1,0 +1,3 @@
+[submodule "lib/lib/sbus"]
+	path = lib/lib/sbus
+	url = https://github.com/adamlm/sbus.git

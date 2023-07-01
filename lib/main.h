@@ -16,5 +16,5 @@ typedef struct SBUS_CHANNEL
 {
     uint16_t  channels_out[15];
     bool failsafe;
-    uint16_t lost_frame_count;
+    bool lost_frame;
 } sbus_channel_data_t;
